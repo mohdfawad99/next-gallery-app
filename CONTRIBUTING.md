@@ -1,0 +1,1 @@
+- To contribute, add an object similiar to the existing ones for a place that you have visited along with the location in the data.json file.
