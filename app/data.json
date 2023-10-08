@@ -51,6 +51,12 @@
     },
     {
 
+        "url": "https://images.unsplash.com/photo-1514316454349-750a7fd3da3a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3456&q=80",
+        "title": "garage",
+        "subtitle": "Home"
+    },
+    {
+
         "url": "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3648&q=80",
         "title": "car",
         "subtitle": "usa"
@@ -59,6 +65,7 @@
         "url": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2160&q=80,
         "title": "BMW",
         "subtitle": "Puzhakattiri, PMNA"
+
 
     }
 ]
